@@ -7,6 +7,6 @@ int main()
 std::string text;    
 std::cin >> text;
 
-std::cout << "hola mundo " << text;
+std::cout << "hola mundo " << text << " a";
 
 }
